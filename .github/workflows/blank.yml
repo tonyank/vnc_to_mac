@@ -1,9 +1,6 @@
-name: mac123
+name: mac
 on: 
-  workflow_dispatch:
-defaults:
-  run:
-    shell: bash
+  push
 
 jobs:
   build:
