@@ -1,4 +1,4 @@
-name: MacRDP
+name: MacRDP123
 on: 
   workflow_dispatch:
 jobs:
